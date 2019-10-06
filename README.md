@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/sneakybytes/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/sneakybytes/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
